@@ -1,0 +1,6 @@
+framework module Pods_FocusmonTests {
+  umbrella header "Pods-FocusmonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
